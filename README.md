@@ -1,7 +1,6 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github&fontSize=89" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
 </div>
-
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -41,4 +40,9 @@
 	<a href="https://yermi.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
+</div>
+<div align=center>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc"><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc">
 </div>
