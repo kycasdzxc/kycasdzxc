@@ -43,9 +43,14 @@
 	<a href="https://yermi.works">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
+	<br><br>
 </div>
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+	<br><br>
+	<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
