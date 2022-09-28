@@ -57,11 +57,11 @@
 </div>
 <div align=center>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-
+<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
